@@ -8,7 +8,7 @@
 # gem install lolcat
 # apt install figlet
 
-# git clone https://github.com/Fuckyou24/telmos/hias
+# git clone https://github.com/Fuckyou24/telmos
 # cd hias
 # chmod 777 *
 # sh hias.sh
